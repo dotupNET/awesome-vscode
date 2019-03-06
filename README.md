@@ -356,6 +356,12 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
 - [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Code outline view of your open TS, sort and organize your imports.
 
+```gfm
+#### [Title of the package](https://marketplace.visualstudio.com/items?itemName=NAME)
+> A short description of what this package does and why is it awesome.
+
+![title of the package](link to the .gif file that explains its functionality)
+```
 ## Markdown
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
@@ -893,6 +899,15 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Quickly bring up helpful MDN documentation in the editor
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
+
+
+![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
+
+## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
+
+> Quickly generate interface definitions from typescript class
+
+![Interface generator](https://raw.githubusercontent.com/dotupNET/dotup-vscode-interface-generator/master/images/video2.gif)
 
 # Themes
 
